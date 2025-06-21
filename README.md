@@ -1,5 +1,4 @@
-first website to launch using the html and css
-
+My Portfolio Website
 This is a simple personal portfolio website created using HTML and basic CSS. It includes a Home page and a Contact page to introduce myself and provide a way for visitors to get in touch.
 
 Features
@@ -33,12 +32,4 @@ Share my contact information easily
 Demo
 Live Demo (Replace # with your hosted site link if you have one)
 
-thank you for visiting my website
-
-
-
-
-
-
-
-
+Thank you for visiting my website
